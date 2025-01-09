@@ -1,11 +1,11 @@
-# Anime-stream-template
+### ANIMEKU [(STREAMING)]()
 Free website for anime streaming
 - [x] for firebase
 - [x] all platform
 - [x] full english version
 - [x] work with kitsu.io api
 ------------------------------
-# SETUP:
+### SETUP :
 Edit config.js with your firebase config and that's all
 ```js
 const firebaseConfig = {
@@ -45,9 +45,9 @@ Example:
 }
 ```
 --------------------
-# SCREEN
-```
-PHONE AND COMPUTER
+### SCREEN
+```python
+Phone and Computer
 ```
 <img alt="mobile acceuille" src="./screen/Mobile/acceuille.png"/>
 <img alt="mobile descrip" src="./screen/Mobile/descrip.png"/>
