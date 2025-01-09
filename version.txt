@@ -2,8 +2,8 @@ Only for chromium:
 ------------------
 
 -	V-Beta 0.0.5
--	Fondator: Yoann CHB
--	Helper: Rémi D
+-	Fondator: Aang Dev
+-	Helper: Yohann CHB
 
 MAJ:
 ----
